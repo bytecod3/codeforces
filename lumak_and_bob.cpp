@@ -1,11 +1,10 @@
-#include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-  int a, b, n_yrs;
 
-  n_yrs = 0;
+int main(){
+  int a, b, n_yrs=0;
+
   cin>>a>>b;
   
   if(a > 10 || b > 10){
